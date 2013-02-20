@@ -15,7 +15,7 @@ function stopforumspam_info()
 		'authorsite'	=> '',
 		'version'		=> '1.4.1',
 		'guid'			=> 'cd4d9e2f4a6975562887ee6edffb984e',
-		'compatibility' => '1*'
+		'compatibility' => '*'
 	);
 }
 
