@@ -11,7 +11,7 @@ When a user registers on a forum their user details (chosen by the administrator
 The idea behind Confidence is to prevent ham - ham being an actual user that is in SFS by mistake or is of a low spam risk - as well as spam.
 
 ### Licence
-© Tim Bell, Tom Moore, 2012 onwards.
+© Tim Bell, Tom Moore, 2012 onwards. (© french language file by tdubourg)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
